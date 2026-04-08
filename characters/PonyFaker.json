@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-143,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ponyleft"
+		},
+		{
+			"offsets": [
+				-125,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ponydown"
+		},
+		{
+			"offsets": [
+				-168,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ponyup"
+		},
+		{
+			"offsets": [
+				88,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ponyright"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 6,
+			"name": "ponyidle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				-21
+			],
+			"anim": "idle-alt",
+			"fps": 12,
+			"name": "ponyaltidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-82
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ponyaltleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-270
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ponyaltdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-88
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "ponyaltright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				34
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ponyaltup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PonyFaker",
+	"position": [
+		-130,
+		160
+	],
+	"healthicon": "pony",
+	"flip_x": true,
+	"healthbar_colors": [
+		182,
+		135,
+		88
+	],
+	"camera_position": [
+		-220,
+		80
+	],
+	"sing_duration": 5,
+	"scale": 0.9
+}

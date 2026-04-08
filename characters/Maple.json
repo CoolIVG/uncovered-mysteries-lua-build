@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-85,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-90,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-7,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-43,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				0
+			],
+			"anim": "talking",
+			"fps": 24,
+			"name": "talking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				0
+			],
+			"anim": "trolled",
+			"fps": 24,
+			"name": "youjustgottrolled",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MAPLE_DONUT",
+	"position": [
+		42,
+		50
+	],
+	"healthicon": "maple",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		88,
+		44
+	],
+	"camera_position": [
+		-40,
+		60
+	],
+	"sing_duration": 5,
+	"scale": 0.825
+}

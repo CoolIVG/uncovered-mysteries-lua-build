@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				16,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gloriousdown"
+		},
+		{
+			"offsets": [
+				20,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gloriousup"
+		},
+		{
+			"offsets": [
+				69,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gloriousright"
+		},
+		{
+			"offsets": [
+				68,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gloriousleft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "gloriousidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WhereTo/GloriousFetus",
+	"position": [
+		495,
+		210
+	],
+	"healthicon": "gloriouschud",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-60,
+		40
+	],
+	"sing_duration": 6,
+	"scale": 0.9
+}

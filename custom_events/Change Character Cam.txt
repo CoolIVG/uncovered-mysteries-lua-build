@@ -1,0 +1,2 @@
+Value 1 is the character (dad, boyfriend, gf) 
+Value 2 is the offsets to add remove (x, y)

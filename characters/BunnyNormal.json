@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				7
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bunnynormalleft"
+		},
+		{
+			"offsets": [
+				0,
+				-80
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bunnynormaldown"
+		},
+		{
+			"offsets": [
+				-13,
+				35
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bunnynormalup"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bunnynormalright"
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bunnynormalmissleft"
+		},
+		{
+			"offsets": [
+				-13,
+				-101
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bunnynormalmissdown"
+		},
+		{
+			"offsets": [
+				-27,
+				35
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bunnynormalmissup"
+		},
+		{
+			"offsets": [
+				-20,
+				-15
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bunnynormalmissright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				200
+			],
+			"anim": "Stand Up",
+			"fps": 30,
+			"name": "bunnynormalstandup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "bunnynormalidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kinemortophobia/BunnyNormal",
+	"position": [
+		-335,
+		260
+	],
+	"healthicon": "bunny",
+	"flip_x": true,
+	"healthbar_colors": [
+		99,
+		138,
+		182
+	],
+	"camera_position": [
+		-300,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

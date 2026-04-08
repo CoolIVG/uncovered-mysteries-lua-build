@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-76
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Down Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pico Up note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-94,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico Note Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				40
+			],
+			"anim": "rest in peace dickhead",
+			"fps": 24,
+			"name": "DEATH PICO0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				40
+			],
+			"anim": "fuck hes alive",
+			"fps": 24,
+			"name": "DEATH PICO CONFIRM",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				110,
+				40
+			],
+			"anim": "lol",
+			"fps": 24,
+			"name": "DEATH PICO LOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				-2
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Pico Down Note MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				16
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Pico NOTE LEFT miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				137
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Pico Note Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				61
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "pico Up note miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Porcellum/peakcoporcellum",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		112,
+		219,
+		98
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

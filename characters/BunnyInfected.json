@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 28,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 28,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				69
+			],
+			"anim": "singUP",
+			"fps": 28,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 28,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 28,
+			"name": "miss_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-50
+			],
+			"anim": "singDOWNmiss",
+			"fps": 28,
+			"name": "miss_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				45
+			],
+			"anim": "singUPmiss",
+			"fps": 28,
+			"name": "miss_UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 28,
+			"name": "miss_RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kinemortophobia/BunnyInfected",
+	"position": [
+		-310,
+		180
+	],
+	"healthicon": "bunnyinf",
+	"flip_x": true,
+	"healthbar_colors": [
+		99,
+		138,
+		182
+	],
+	"camera_position": [
+		0,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

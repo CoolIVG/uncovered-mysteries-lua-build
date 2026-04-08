@@ -1,0 +1,5 @@
+STOP FUCKING ASKING FOR THE SHADER!!!!!!!!!!!!!!!!!
+(Works with most shaders)
+
+Value 1: Mark this as camHUD, camGame, or  camOther to apply the shader to it
+Value 2: Name of shader, leave it blank to remove the shader
