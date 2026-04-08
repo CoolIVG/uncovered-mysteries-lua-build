@@ -1,8 +1,0 @@
-coded by dinodoesstuff :)
-value1 should be set out in the order "zoom, time, easing"
-
-FOR EXAMPLE:
-Setting the zoom to 1 in 0.5 seconds with the linear easing would be:
-1, 0.5, linear
-
-value1 = zoom, time, easing

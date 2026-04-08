@@ -1,8 +1,0 @@
-Value 1 is the Icon, be sure that if it's not in "ModName/images" 
-to include the rest of the path
-"subfolder/iconname" this a example of v1
-or just "iconame" if its just in images
-BE SURE ICON IS 64x64 NO SMALLER OR BIGGER
-
-Value 2 Just The Name
-"Friday Night Funkin: Vs Mrbreast"
