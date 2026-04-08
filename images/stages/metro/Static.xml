@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Static.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Static instance 0000" x="0" y="0" width="1312" height="740"/>
+	<SubTexture name="Static instance 0001" x="1312" y="0" width="1312" height="740"/>
+	<SubTexture name="Static instance 0002" x="2624" y="0" width="1312" height="740"/>
+	<SubTexture name="Static instance 0003" x="0" y="740" width="1312" height="740"/>
+	<SubTexture name="Static instance 0004" x="1312" y="740" width="1312" height="740"/>
+	<SubTexture name="Static instance 0005" x="2624" y="740" width="1312" height="740"/>
+	<SubTexture name="Static instance 0006" x="0" y="1480" width="1312" height="740"/>
+	<SubTexture name="Static instance 0007" x="1312" y="1480" width="1312" height="740"/>
+	<SubTexture name="Static instance 0008" x="2624" y="1480" width="1312" height="740"/>
+	<SubTexture name="Static instance 0009" x="0" y="2220" width="1312" height="740"/>
+	<SubTexture name="Static instance 0010" x="1312" y="2220" width="1312" height="740"/>
+	<SubTexture name="Static instance 0011" x="2624" y="2220" width="1312" height="740"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Candle2.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Candle_LitUp0000" x="0" y="0" width="275" height="621"/>
+	<SubTexture name="Candle_LitUp0001" x="0" y="0" width="275" height="621"/>
+	<SubTexture name="Candle_LitUp0002" x="275" y="0" width="275" height="621"/>
+	<SubTexture name="Candle_LitUp0003" x="275" y="0" width="275" height="621"/>
+	<SubTexture name="Candle_LitUp0004" x="550" y="0" width="275" height="621"/>
+	<SubTexture name="Candle_LitUp0005" x="550" y="0" width="275" height="621"/>
+	<SubTexture name="Candle_LitUp0006" x="825" y="0" width="275" height="621"/>
+	<SubTexture name="Candle_LitUp0007" x="825" y="0" width="275" height="621"/>
+	<SubTexture name="Candle_LitUp0008" x="825" y="0" width="275" height="621"/>
+	<SubTexture name="Candle_LitUp0009" x="825" y="0" width="275" height="621"/>
+	<SubTexture name="Candle_Unlit0000" x="1100" y="0" width="264" height="358"/>
+	<SubTexture name="Candle_idle0000" x="1364" y="0" width="273" height="521"/>
+	<SubTexture name="Candle_idle0001" x="1637" y="0" width="273" height="521"/>
+	<SubTexture name="Candle_idle0002" x="1364" y="0" width="273" height="521"/>
+	<SubTexture name="Candle_idle0003" x="1637" y="0" width="273" height="521"/>
+</TextureAtlas>

@@ -1,0 +1,50 @@
+{
+	"storyName": "Prologue",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Hallow's Warmup",
+			"prequel",
+			[
+				49,
+				176,
+				209
+			]
+		],
+		[
+			"Spectator",
+			"stitchy",
+			[
+				95,
+				68,
+				36
+			]
+		],
+		[
+			"Deep Psychosis",
+			"haunters",
+			[
+				101,
+				44,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 0"
+}

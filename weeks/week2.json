@@ -1,0 +1,32 @@
+{
+	"storyName": "Chapter 2",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"trojan horse",
+			"pony",
+			[
+				182,
+				135,
+				88
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2",
+	"hiddenUntilUnlocked": true
+}

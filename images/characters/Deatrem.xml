@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Deatrem.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Down00000" x="0" y="4814" width="1246" height="566" frameX="-85" frameY="-465" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Down10000" x="0" y="4251" width="1256" height="563" frameX="-85" frameY="-468" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Down20000" x="2374" y="3603" width="1248" height="567" frameX="-85" frameY="-464" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Down30000" x="0" y="1401" width="1209" height="714" frameX="-85" frameY="-317" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Idle00000" x="1209" y="1401" width="1187" height="714" frameX="-85" frameY="-317" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Idle10000" x="1187" y="3603" width="1187" height="644" frameX="-85" frameY="-387" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Idle20000" x="0" y="3603" width="1187" height="648" frameX="-85" frameY="-383" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Idle30000" x="2374" y="2910" width="1187" height="654" frameX="-85" frameY="-377" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Idle40000" x="1187" y="2910" width="1187" height="673" frameX="-85" frameY="-358" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Idle50000" x="0" y="2910" width="1187" height="693" frameX="-85" frameY="-338" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Idle60000" x="2217" y="2115" width="1187" height="710" frameX="-85" frameY="-321" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Left00000" x="4707" y="705" width="1025" height="711" frameX="-85" frameY="-320" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Left10000" x="4707" y="1416" width="1021" height="710" frameX="-85" frameY="-321" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Left20000" x="4707" y="2126" width="1020" height="707" frameX="-85" frameY="-324" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Left30000" x="4707" y="0" width="1087" height="705" frameX="-85" frameY="-326" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Right00000" x="0" y="700" width="1276" height="701" frameX="-85" frameY="-330" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Right10000" x="0" y="0" width="1285" height="700" frameX="-85" frameY="-331" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Right20000" x="1285" y="0" width="1271" height="696" frameX="-85" frameY="-335" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Right30000" x="1285" y="696" width="1248" height="702" frameX="-85" frameY="-329" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Up00000" x="0" y="2115" width="1079" height="795" frameX="-85" frameY="-236" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Up10000" x="2556" y="0" width="1073" height="804" frameX="-85" frameY="-227" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Up20000" x="3629" y="0" width="1078" height="791" frameX="-85" frameY="-240" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Up30000" x="1079" y="2115" width="1138" height="750" frameX="-85" frameY="-281" frameWidth="1920" frameHeight="1080"/>
+</TextureAtlas>

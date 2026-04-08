@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				75,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				30,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				5,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				15,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Porcellum/Little_Piglet",
+	"position": [
+		140,
+		400
+	],
+	"healthicon": "piglet",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		0,
+		168
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 5.5,
+	"scale": 1
+}

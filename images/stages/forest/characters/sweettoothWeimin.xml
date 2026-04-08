@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sweettoothWeimin.png">
+	<SubTexture name="1Weimin0000" x="0" y="0" width="329" height="548"/>
+	<SubTexture name="1Weimin0001" x="0" y="0" width="329" height="548"/>
+	<SubTexture name="1Weimin0002" x="329" y="0" width="329" height="548"/>
+	<SubTexture name="1Weimin0003" x="329" y="0" width="329" height="548"/>
+	<SubTexture name="1Weimin0004" x="658" y="0" width="329" height="548"/>
+	<SubTexture name="1Weimin0005" x="658" y="0" width="329" height="548"/>
+	<SubTexture name="1Weimin0006" x="987" y="0" width="329" height="548"/>
+	<SubTexture name="1Weimin0007" x="1316" y="0" width="329" height="548"/>
+	<SubTexture name="1Weimin0008" x="1316" y="0" width="329" height="548"/>
+	<SubTexture name="1Weimin0009" x="1645" y="0" width="329" height="548"/>
+	<SubTexture name="1Weimin0010" x="0" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0011" x="0" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0012" x="329" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0013" x="329" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0014" x="658" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0015" x="658" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0016" x="0" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0017" x="0" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0018" x="329" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0019" x="329" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0020" x="658" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0021" x="658" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0022" x="987" y="548" width="329" height="548"/>
+	<SubTexture name="1Weimin0023" x="987" y="548" width="329" height="548"/>
+</TextureAtlas>

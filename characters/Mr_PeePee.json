@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				124,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "stitchleft"
+		},
+		{
+			"offsets": [
+				15,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "stitchdown"
+		},
+		{
+			"offsets": [
+				32,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "stitchup"
+		},
+		{
+			"offsets": [
+				-19,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "stitchright"
+		},
+		{
+			"offsets": [
+				-5,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shush",
+			"indices": [],
+			"name": "stitchshush"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "stitchidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mr_PeePee",
+	"position": [
+		35,
+		-15
+	],
+	"healthicon": "pisspiss",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		68,
+		36
+	],
+	"camera_position": [
+		-10,
+		20
+	],
+	"sing_duration": 5,
+	"scale": 0.8
+}

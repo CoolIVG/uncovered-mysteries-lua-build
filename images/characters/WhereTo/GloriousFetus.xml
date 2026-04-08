@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GloriousFetus.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gloriousdown0000" x="0" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0001" x="368" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0002" x="736" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0003" x="736" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0004" x="1104" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0005" x="1104" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0006" x="1472" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0007" x="1472" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0008" x="1840" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0009" x="1840" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0010" x="2208" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0011" x="2208" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0012" x="2576" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0013" x="2576" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0014" x="2944" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0015" x="2944" y="0" width="368" height="532" frameX="0" frameY="0" frameWidth="368" frameHeight="535"/>
+	<SubTexture name="gloriousdown0016" x="3312" y="0" width="368" height="535"/>
+	<SubTexture name="gloriousdown0017" x="3312" y="0" width="368" height="535"/>
+	<SubTexture name="gloriousidle0000" x="3680" y="0" width="348" height="566"/>
+	<SubTexture name="gloriousidle0001" x="3680" y="0" width="348" height="566"/>
+	<SubTexture name="gloriousidle0002" x="3680" y="0" width="348" height="566"/>
+	<SubTexture name="gloriousidle0003" x="3680" y="0" width="348" height="566"/>
+	<SubTexture name="gloriousidle0004" x="0" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0005" x="0" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0006" x="0" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0007" x="0" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0008" x="348" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0009" x="348" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0010" x="348" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0011" x="348" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0012" x="696" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0013" x="696" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0014" x="696" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0015" x="696" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0016" x="3680" y="0" width="348" height="566"/>
+	<SubTexture name="gloriousidle0017" x="3680" y="0" width="348" height="566"/>
+	<SubTexture name="gloriousidle0018" x="3680" y="0" width="348" height="566"/>
+	<SubTexture name="gloriousidle0019" x="3680" y="0" width="348" height="566"/>
+	<SubTexture name="gloriousidle0020" x="0" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0021" x="0" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0022" x="0" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0023" x="0" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0024" x="348" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0025" x="348" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0026" x="348" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0027" x="348" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0028" x="696" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0029" x="696" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0030" x="696" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousidle0031" x="696" y="566" width="348" height="566"/>
+	<SubTexture name="gloriousleft0000" x="1044" y="566" width="427" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0001" x="1471" y="566" width="427" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0002" x="1898" y="566" width="424" height="583" frameX="0" frameY="0" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0003" x="1898" y="566" width="424" height="583" frameX="0" frameY="0" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0004" x="2322" y="566" width="422" height="579" frameX="0" frameY="-4" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0005" x="2322" y="566" width="422" height="579" frameX="0" frameY="-4" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0006" x="2744" y="566" width="421" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0007" x="2744" y="566" width="421" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0008" x="3165" y="566" width="421" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0009" x="3165" y="566" width="421" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0010" x="3586" y="566" width="421" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0011" x="3586" y="566" width="421" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0012" x="0" y="1149" width="421" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0013" x="0" y="1149" width="421" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0014" x="421" y="1149" width="420" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0015" x="421" y="1149" width="420" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0016" x="841" y="1149" width="417" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousleft0017" x="841" y="1149" width="417" height="576" frameX="0" frameY="-7" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="gloriousright0000" x="1258" y="1149" width="409" height="569" frameX="-91" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0001" x="1667" y="1149" width="407" height="569" frameX="-91" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0002" x="2074" y="1149" width="420" height="574" frameX="-91" frameY="0" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0003" x="2074" y="1149" width="420" height="574" frameX="-91" frameY="0" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0004" x="2494" y="1149" width="413" height="570" frameX="-91" frameY="-4" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0005" x="2494" y="1149" width="413" height="570" frameX="-91" frameY="-4" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0006" x="2907" y="1149" width="409" height="569" frameX="-91" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0007" x="2907" y="1149" width="409" height="569" frameX="-91" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0008" x="3316" y="1149" width="407" height="569" frameX="-91" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0009" x="3316" y="1149" width="407" height="569" frameX="-91" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0010" x="0" y="1725" width="407" height="569" frameX="-91" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0011" x="0" y="1725" width="407" height="569" frameX="-91" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0012" x="407" y="1725" width="407" height="569" frameX="-91" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0013" x="407" y="1725" width="407" height="569" frameX="-91" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0014" x="814" y="1725" width="479" height="569" frameX="-4" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0015" x="814" y="1725" width="479" height="569" frameX="-4" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0016" x="1293" y="1725" width="483" height="569" frameX="0" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousright0017" x="1293" y="1725" width="483" height="569" frameX="0" frameY="-5" frameWidth="511" frameHeight="574"/>
+	<SubTexture name="gloriousup0000" x="1776" y="1725" width="373" height="640"/>
+	<SubTexture name="gloriousup0001" x="2149" y="1725" width="370" height="639" frameX="-3" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0002" x="2519" y="1725" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0003" x="2519" y="1725" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0004" x="2887" y="1725" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0005" x="2887" y="1725" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0006" x="3255" y="1725" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0007" x="3255" y="1725" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0008" x="3623" y="1725" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0009" x="3623" y="1725" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0010" x="0" y="2365" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0011" x="0" y="2365" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0012" x="368" y="2365" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0013" x="368" y="2365" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0014" x="736" y="2365" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0015" x="736" y="2365" width="368" height="638" frameX="-5" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0016" x="1104" y="2365" width="372" height="638" frameX="-1" frameY="0" frameWidth="373" frameHeight="640"/>
+	<SubTexture name="gloriousup0017" x="1104" y="2365" width="372" height="638" frameX="-1" frameY="0" frameWidth="373" frameHeight="640"/>
+</TextureAtlas>

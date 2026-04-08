@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Clowny.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="down10000" x="3047" y="1500" width="395" height="561" frameX="-19" frameY="-9" frameWidth="430" frameHeight="573"/>
+	<SubTexture name="down20000" x="3047" y="2061" width="396" height="544" frameX="-18" frameY="-26" frameWidth="430" frameHeight="573"/>
+	<SubTexture name="altdown10000" x="634" y="2077" width="558" height="447" frameX="-26" frameY="-62" frameWidth="600" frameHeight="550"/>
+	<SubTexture name="altdown20000" x="1225" y="1367" width="562" height="446" frameX="-21" frameY="-63" frameWidth="600" frameHeight="550"/>
+	<SubTexture name="idle10000" x="0" y="2628" width="260" height="810" frameX="-34" frameY="-2" frameWidth="614" frameHeight="819"/>
+	<SubTexture name="idle20000" x="260" y="2628" width="260" height="809" frameX="-34" frameY="-2" frameWidth="614" frameHeight="819"/>
+	<SubTexture name="altidle10000" x="0" y="1367" width="574" height="710" frameX="-43" frameY="-71" frameWidth="661" frameHeight="823"/>
+	<SubTexture name="left10000" x="3047" y="742" width="455" height="758" frameX="-24" frameY="-43" frameWidth="614" frameHeight="819"/>
+	<SubTexture name="left20000" x="3047" y="0" width="466" height="742" frameX="-20" frameY="-57" frameWidth="614" frameHeight="819"/>
+	<SubTexture name="altleft10000" x="0" y="2077" width="634" height="551" frameX="-12" frameY="-20" frameWidth="668" frameHeight="597"/>
+	<SubTexture name="altleft20000" x="574" y="1367" width="651" height="544" frameX="2" frameY="-27" frameWidth="668" frameHeight="597"/>
+	<SubTexture name="right10000" x="1942" y="0" width="623" height="681" frameX="-20" frameY="-16" frameWidth="643" frameHeight="737"/>
+	<SubTexture name="right20000" x="1942" y="681" width="621" height="669" frameX="-20" frameY="-28" frameWidth="643" frameHeight="727"/>
+	<SubTexture name="altright10000" x="0" y="683" width="843" height="684" frameX="-20" frameY="-16" frameWidth="877" frameHeight="762"/>
+	<SubTexture name="altright20000" x="0" y="0" width="848" height="683" frameX="-20" frameY="-17" frameWidth="877" frameHeight="762"/>
+	<SubTexture name="up10000" x="1397" y="0" width="545" height="800" frameX="-61" frameY="-5" frameWidth="614" frameHeight="819"/>
+	<SubTexture name="up20000" x="848" y="0" width="549" height="801" frameX="-53" frameY="-3" frameWidth="614" frameHeight="819"/>
+	<SubTexture name="altup10000" x="2565" y="833" width="481" height="831" frameX="-43" frameY="-11" frameWidth="567" frameHeight="884"/>
+	<SubTexture name="altup20000" x="2565" y="0" width="482" height="833" frameX="-44" frameY="-9" frameWidth="567" frameHeight="884"/>
+</TextureAtlas>

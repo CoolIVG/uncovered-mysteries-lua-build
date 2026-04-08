@@ -1,0 +1,86 @@
+{
+	"storyName": "freeplay only",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Kinemortophobia",
+			"zompiggycalm",
+			[
+				73,
+				94,
+				76
+			]
+		],
+		[
+			"Linkbait",
+			"duocara",
+			[
+				143,
+				50,
+				79
+			]
+		],
+		[
+			"Syrupy",
+			"maple",
+			[
+				153,
+				88,
+				44
+			]
+		],
+		[
+			"Cyanosis",
+			"purple",
+			[
+				159,
+				53,
+				187
+			]
+		],
+		[
+			"Gelotology",
+			"clowny",
+			[
+				225,
+				232,
+				88
+			]
+		],
+		[
+			"Where To?",
+			"memory",
+			[
+				159,
+				159,
+				159
+			]
+		],
+		[
+			"Culo",
+			"deatram",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Freeplay"
+}

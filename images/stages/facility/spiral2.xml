@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spiral2.png" width="2160" height="1080">
+	<SubTexture name="mono0000" x="0" y="0" width="1080" height="1080"/>
+	<SubTexture name="colour0000" x="1080" y="0" width="1080" height="1080"/>
+</TextureAtlas>

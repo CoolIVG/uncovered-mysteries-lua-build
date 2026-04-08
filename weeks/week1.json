@@ -1,0 +1,32 @@
+{
+	"storyName": "Chapter 1",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week0",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Discarded",
+			"Maginary",
+			[
+				141,
+				93,
+				96
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Week 1"
+}

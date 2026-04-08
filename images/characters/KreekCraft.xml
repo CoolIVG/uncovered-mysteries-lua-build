@@ -1,0 +1,668 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KreekCraft.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kaltdown0000" x="0" y="0" width="466" height="460"/>
+	<SubTexture name="kaltdown0001" x="0" y="0" width="466" height="460"/>
+	<SubTexture name="kaltdown0002" x="0" y="0" width="466" height="460"/>
+	<SubTexture name="kaltdown0003" x="466" y="0" width="466" height="448" frameX="0" frameY="-12" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0004" x="466" y="0" width="466" height="448" frameX="0" frameY="-12" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0005" x="466" y="0" width="466" height="448" frameX="0" frameY="-12" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0006" x="932" y="0" width="466" height="453" frameX="0" frameY="-7" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0007" x="932" y="0" width="466" height="453" frameX="0" frameY="-7" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0008" x="932" y="0" width="466" height="453" frameX="0" frameY="-7" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0009" x="1398" y="0" width="466" height="455" frameX="0" frameY="-5" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0010" x="1398" y="0" width="466" height="455" frameX="0" frameY="-5" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0011" x="1398" y="0" width="466" height="455" frameX="0" frameY="-5" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0012" x="1864" y="0" width="466" height="456" frameX="0" frameY="-4" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0013" x="1864" y="0" width="466" height="456" frameX="0" frameY="-4" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0014" x="1864" y="0" width="466" height="456" frameX="0" frameY="-4" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0015" x="1864" y="0" width="466" height="456" frameX="0" frameY="-4" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0016" x="2330" y="0" width="466" height="456" frameX="0" frameY="-4" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltdown0017" x="2796" y="0" width="466" height="456" frameX="0" frameY="-4" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="kaltleft0000" x="3262" y="0" width="525" height="461" frameX="-8" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0001" x="3262" y="0" width="525" height="461" frameX="-8" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0002" x="3262" y="0" width="525" height="461" frameX="-8" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0003" x="3787" y="0" width="533" height="461"/>
+	<SubTexture name="kaltleft0004" x="3787" y="0" width="533" height="461"/>
+	<SubTexture name="kaltleft0005" x="3787" y="0" width="533" height="461"/>
+	<SubTexture name="kaltleft0006" x="4320" y="0" width="528" height="461" frameX="-5" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0007" x="4320" y="0" width="528" height="461" frameX="-5" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0008" x="4320" y="0" width="528" height="461" frameX="-5" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0009" x="4848" y="0" width="526" height="461" frameX="-7" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0010" x="4848" y="0" width="526" height="461" frameX="-7" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0011" x="4848" y="0" width="526" height="461" frameX="-7" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0012" x="5374" y="0" width="526" height="461" frameX="-7" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0013" x="5374" y="0" width="526" height="461" frameX="-7" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0014" x="5374" y="0" width="526" height="461" frameX="-7" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0015" x="5374" y="0" width="526" height="461" frameX="-7" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0016" x="5900" y="0" width="526" height="461" frameX="-7" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltleft0017" x="6426" y="0" width="526" height="461" frameX="-7" frameY="0" frameWidth="533" frameHeight="461"/>
+	<SubTexture name="kaltright0000" x="6952" y="0" width="549" height="433"/>
+	<SubTexture name="kaltright0001" x="6952" y="0" width="549" height="433"/>
+	<SubTexture name="kaltright0002" x="6952" y="0" width="549" height="433"/>
+	<SubTexture name="kaltright0003" x="7501" y="0" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0004" x="7501" y="0" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0005" x="7501" y="0" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0006" x="0" y="461" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0007" x="0" y="461" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0008" x="0" y="461" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0009" x="548" y="461" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0010" x="548" y="461" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0011" x="548" y="461" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0012" x="1096" y="461" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0013" x="1096" y="461" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0014" x="1096" y="461" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0015" x="1096" y="461" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0016" x="1644" y="461" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltright0017" x="2192" y="461" width="548" height="433" frameX="0" frameY="0" frameWidth="549" frameHeight="433"/>
+	<SubTexture name="kaltup0000" x="2740" y="461" width="489" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0001" x="2740" y="461" width="489" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0002" x="2740" y="461" width="489" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0003" x="3229" y="461" width="479" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0004" x="3229" y="461" width="479" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0005" x="3229" y="461" width="479" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0006" x="3708" y="461" width="485" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0007" x="3708" y="461" width="485" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0008" x="3708" y="461" width="485" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0009" x="4193" y="461" width="487" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0010" x="4193" y="461" width="487" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0011" x="4193" y="461" width="487" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0012" x="4680" y="461" width="487" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0013" x="4680" y="461" width="487" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0014" x="4680" y="461" width="487" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0015" x="4680" y="461" width="487" height="500" frameX="0" frameY="-5" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0016" x="5167" y="461" width="499" height="504" frameX="0" frameY="-1" frameWidth="504" frameHeight="505"/>
+	<SubTexture name="kaltup0017" x="5666" y="461" width="504" height="505"/>
+	<SubTexture name="kdidit0000" x="6170" y="461" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0001" x="6642" y="461" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0002" x="7114" y="461" width="472" height="506"/>
+	<SubTexture name="kdidit0003" x="7114" y="461" width="472" height="506"/>
+	<SubTexture name="kdidit0004" x="7586" y="461" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0005" x="7586" y="461" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0006" x="0" y="967" width="472" height="503" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0007" x="0" y="967" width="472" height="503" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0008" x="472" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0009" x="472" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0010" x="944" y="967" width="472" height="492" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0011" x="944" y="967" width="472" height="492" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0012" x="472" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0013" x="472" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0014" x="1416" y="967" width="472" height="493" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0015" x="1416" y="967" width="472" height="493" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0016" x="1888" y="967" width="472" height="487" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0017" x="2360" y="967" width="472" height="487" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0018" x="2832" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0019" x="3304" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0020" x="3776" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0021" x="3776" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0022" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0023" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0024" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0025" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0026" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0027" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0028" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0029" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0030" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0031" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0032" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0033" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0034" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0035" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0036" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0037" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdidit0038" x="4248" y="967" width="472" height="474" frameX="0" frameY="0" frameWidth="472" frameHeight="506"/>
+	<SubTexture name="kdown0000" x="4720" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0001" x="4720" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0002" x="4720" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0003" x="5186" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0004" x="5186" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0005" x="5186" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0006" x="5652" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0007" x="5652" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0008" x="5652" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0009" x="6118" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0010" x="6118" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0011" x="6118" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0012" x="6584" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0013" x="6584" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0014" x="6584" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0015" x="6584" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0016" x="7050" y="967" width="466" height="423"/>
+	<SubTexture name="kdown0017" x="7516" y="967" width="466" height="423"/>
+	<SubTexture name="kfranticanimation0000" x="0" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0001" x="0" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0002" x="0" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0003" x="0" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0004" x="0" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0005" x="0" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0006" x="0" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0007" x="0" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0008" x="0" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0009" x="468" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0010" x="936" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0011" x="1404" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0012" x="1404" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0013" x="1404" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0014" x="1404" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0015" x="1404" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0016" x="1404" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0017" x="1404" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0018" x="1404" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0019" x="1404" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0020" x="1404" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0021" x="1404" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0022" x="1872" y="1470" width="468" height="454"/>
+	<SubTexture name="kfranticanimation0023" x="2340" y="1470" width="468" height="454"/>
+	<SubTexture name="khurryup0000" x="2808" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0001" x="3276" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0002" x="3744" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0003" x="3744" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0004" x="4212" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0005" x="4212" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0006" x="4680" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0007" x="4680" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0008" x="5148" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0009" x="5616" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0010" x="5616" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0011" x="5616" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0012" x="5616" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0013" x="6084" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0014" x="6084" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0015" x="5616" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0016" x="5616" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0017" x="6552" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0018" x="7020" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0019" x="7488" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0020" x="7488" y="1470" width="468" height="473"/>
+	<SubTexture name="khurryup0021" x="0" y="1943" width="468" height="473"/>
+	<SubTexture name="khurryup0022" x="0" y="1943" width="468" height="473"/>
+	<SubTexture name="khurryup0023" x="468" y="1943" width="468" height="473"/>
+	<SubTexture name="khurryup0024" x="468" y="1943" width="468" height="473"/>
+	<SubTexture name="khurryup0025" x="936" y="1943" width="468" height="473"/>
+	<SubTexture name="khurryup0026" x="1404" y="1943" width="468" height="473"/>
+	<SubTexture name="khurryup0027" x="1404" y="1943" width="468" height="473"/>
+	<SubTexture name="khurryup0028" x="936" y="1943" width="468" height="473"/>
+	<SubTexture name="khurryup0029" x="936" y="1943" width="468" height="473"/>
+	<SubTexture name="khurryup0030" x="936" y="1943" width="468" height="473"/>
+	<SubTexture name="khurryup0031" x="936" y="1943" width="468" height="473"/>
+	<SubTexture name="khurryup0032" x="1872" y="1943" width="468" height="473"/>
+	<SubTexture name="khurryup0033" x="2340" y="1943" width="468" height="473"/>
+	<SubTexture name="kidle0000" x="2808" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0001" x="2808" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0002" x="3276" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0003" x="3276" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0004" x="3744" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0005" x="3744" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0006" x="4212" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0007" x="4212" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0008" x="4680" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0009" x="4680" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0010" x="5148" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0011" x="5148" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0012" x="5616" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0013" x="5616" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0014" x="6084" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0015" x="6084" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0016" x="6552" y="1943" width="468" height="444"/>
+	<SubTexture name="kidle0017" x="6552" y="1943" width="468" height="444"/>
+	<SubTexture name="kiwonder0000" x="7020" y="1943" width="473" height="522" frameX="0" frameY="-22" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0001" x="7493" y="1943" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0002" x="0" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0003" x="0" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0004" x="473" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0005" x="473" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0006" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0007" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0008" x="1419" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0009" x="1419" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0010" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0011" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0012" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0013" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0014" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0015" x="1892" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0016" x="1892" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0017" x="2365" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0018" x="2365" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0019" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0020" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0021" x="2838" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0022" x="2838" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0023" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0024" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0025" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0026" x="946" y="2466" width="473" height="523" frameX="0" frameY="-21" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0027" x="3311" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0028" x="3311" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0029" x="3784" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0030" x="3784" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0031" x="4257" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0032" x="4257" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0033" x="3784" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0034" x="3784" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0035" x="3784" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0036" x="3784" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0037" x="3784" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0038" x="3311" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0039" x="3311" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0040" x="4730" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0041" x="4730" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0042" x="3784" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0043" x="3784" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0044" x="3784" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0045" x="3784" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0046" x="3784" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0047" x="5203" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0048" x="5676" y="2466" width="484" height="540" frameX="0" frameY="-4" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0049" x="6160" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0050" x="6160" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0051" x="6633" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0052" x="6633" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0053" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0054" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0055" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0056" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0057" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0058" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0059" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0060" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0061" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0062" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0063" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0064" x="7579" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0065" x="7579" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0066" x="7579" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0067" x="7579" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0068" x="7579" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0069" x="7579" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0070" x="7579" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0071" x="7579" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0072" x="7579" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0073" x="0" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0074" x="0" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0075" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0076" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0077" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0078" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0079" x="473" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0080" x="473" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0081" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0082" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0083" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0084" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0085" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0086" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0087" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0088" x="946" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0089" x="946" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0090" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0091" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0092" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0093" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0094" x="946" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0095" x="946" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0096" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0097" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0098" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0099" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0100" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0101" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0102" x="1419" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0103" x="1419" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0104" x="1892" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0105" x="1892" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0106" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0107" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0108" x="946" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0109" x="946" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0110" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0111" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0112" x="7106" y="2466" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0113" x="2365" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0114" x="2838" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0115" x="3311" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0116" x="3311" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0117" x="3784" y="3006" width="473" height="540" frameX="0" frameY="-4" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0118" x="3784" y="3006" width="473" height="540" frameX="0" frameY="-4" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0119" x="4257" y="3006" width="473" height="540" frameX="0" frameY="-4" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0120" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0121" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0122" x="5203" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0123" x="5203" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0124" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0125" x="5676" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0126" x="5676" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0127" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0128" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0129" x="6149" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0130" x="6149" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0131" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0132" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0133" x="6622" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0134" x="6622" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0135" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0136" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0137" x="5203" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0138" x="5203" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0139" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0140" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0141" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0142" x="7095" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0143" x="7095" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0144" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0145" x="7568" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0146" x="7568" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0147" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0148" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0149" x="0" y="3546" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0150" x="0" y="3546" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0151" x="473" y="3546" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0152" x="473" y="3546" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0153" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0154" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0155" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0156" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0157" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0158" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0159" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0160" x="4730" y="3006" width="473" height="494" frameX="0" frameY="-50" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0161" x="946" y="3546" width="473" height="544" frameX="0" frameY="0" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kiwonder0162" x="1419" y="3546" width="473" height="544" frameX="0" frameY="0" frameWidth="485" frameHeight="544"/>
+	<SubTexture name="kleft0000" x="1892" y="3546" width="466" height="455" frameX="0" frameY="-7" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0001" x="1892" y="3546" width="466" height="455" frameX="0" frameY="-7" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0002" x="1892" y="3546" width="466" height="455" frameX="0" frameY="-7" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0003" x="2358" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0004" x="2358" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0005" x="2358" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0006" x="2824" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0007" x="2824" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0008" x="2824" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0009" x="3290" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0010" x="3290" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0011" x="3290" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0012" x="3756" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0013" x="3756" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0014" x="3756" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0015" x="3756" y="3546" width="466" height="454" frameX="0" frameY="-8" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0016" x="4222" y="3546" width="466" height="458" frameX="0" frameY="-4" frameWidth="466" frameHeight="462"/>
+	<SubTexture name="kleft0017" x="4688" y="3546" width="466" height="462"/>
+	<SubTexture name="kmissdown0000" x="5154" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0001" x="5620" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0002" x="5620" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0003" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0004" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0005" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0006" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0007" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0008" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0009" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0010" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0011" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0012" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0013" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0014" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0015" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0016" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0017" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0018" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0019" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0020" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0021" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0022" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0023" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0024" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0025" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0026" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0027" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0028" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0029" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0030" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0031" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0032" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissdown0033" x="6086" y="3546" width="466" height="400"/>
+	<SubTexture name="kmissleft0000" x="6552" y="3546" width="466" height="455"/>
+	<SubTexture name="kmissleft0001" x="7018" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0002" x="7018" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0003" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0004" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0005" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0006" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0007" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0008" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0009" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0010" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0011" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0012" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0013" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0014" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0015" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0016" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0017" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0018" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0019" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0020" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0021" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0022" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0023" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0024" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0025" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0026" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0027" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0028" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0029" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0030" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0031" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0032" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0033" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0034" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0035" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0036" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0037" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0038" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0039" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0040" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0041" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0042" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0043" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0044" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0045" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0046" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0047" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0048" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissleft0049" x="7484" y="3546" width="466" height="454" frameX="0" frameY="-1" frameWidth="466" frameHeight="455"/>
+	<SubTexture name="kmissright0000" x="0" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0001" x="499" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0002" x="499" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0003" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0004" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0005" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0006" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0007" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0008" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0009" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0010" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0011" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0012" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0013" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0014" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0015" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0016" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0017" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0018" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0019" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0020" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0021" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0022" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0023" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0024" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0025" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0026" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0027" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0028" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0029" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0030" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0031" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0032" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissright0033" x="998" y="4090" width="499" height="533"/>
+	<SubTexture name="kmissup0000" x="1497" y="4090" width="466" height="485"/>
+	<SubTexture name="kmissup0001" x="1963" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0002" x="1963" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0003" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0004" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0005" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0006" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0007" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0008" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0009" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0010" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0011" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0012" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0013" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0014" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0015" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0016" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0017" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0018" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0019" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0020" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0021" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0022" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0023" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0024" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0025" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0026" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0027" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0028" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0029" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0030" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0031" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0032" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kmissup0033" x="2429" y="4090" width="466" height="479" frameX="0" frameY="-6" frameWidth="466" frameHeight="485"/>
+	<SubTexture name="kohmygod0000" x="2895" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0001" x="3368" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0002" x="3841" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0003" x="3841" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0004" x="4314" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0005" x="4314" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0006" x="4787" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0007" x="5260" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0008" x="5260" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0009" x="5260" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0010" x="5260" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0011" x="5260" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0012" x="5733" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0013" x="5733" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0014" x="6206" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0015" x="6206" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0016" x="5260" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0017" x="5260" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0018" x="5260" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0019" x="5260" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0020" x="6679" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0021" x="7152" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0022" x="7625" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0023" x="7625" y="4090" width="473" height="496"/>
+	<SubTexture name="kohmygod0024" x="0" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0025" x="0" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0026" x="473" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0027" x="946" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0028" x="946" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0029" x="1419" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0030" x="1419" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0031" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0032" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0033" x="2365" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0034" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0035" x="2838" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0036" x="2838" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0037" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0038" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0039" x="3311" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0040" x="3311" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0041" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0042" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0043" x="3784" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0044" x="3784" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0045" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0046" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0047" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0048" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0049" x="4257" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0050" x="4257" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0051" x="4730" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0052" x="4730" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0053" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0054" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0055" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0056" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0057" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0058" x="1892" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0059" x="5203" y="4623" width="473" height="496"/>
+	<SubTexture name="kohmygod0060" x="5676" y="4623" width="473" height="496"/>
+	<SubTexture name="kohokay0000" x="6149" y="4623" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0001" x="6617" y="4623" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0002" x="7085" y="4623" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0003" x="7085" y="4623" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0004" x="7553" y="4623" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0005" x="7553" y="4623" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0006" x="0" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0007" x="0" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0008" x="468" y="5152" width="493" height="529"/>
+	<SubTexture name="kohokay0009" x="961" y="5152" width="493" height="529"/>
+	<SubTexture name="kohokay0010" x="1454" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0011" x="1454" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0012" x="1922" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0013" x="1922" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0014" x="1922" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0015" x="1922" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0016" x="2390" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0017" x="2390" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0018" x="2858" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0019" x="2858" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0020" x="2858" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0021" x="2858" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0022" x="2858" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0023" x="2858" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0024" x="2858" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0025" x="2858" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0026" x="3326" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kohokay0027" x="3794" y="5152" width="468" height="529" frameX="-25" frameY="0" frameWidth="493" frameHeight="529"/>
+	<SubTexture name="kright0000" x="4262" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0001" x="4262" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0002" x="4262" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0003" x="4728" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0004" x="4728" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0005" x="4728" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0006" x="5194" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0007" x="5194" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0008" x="5194" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0009" x="5660" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0010" x="5660" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0011" x="5660" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0012" x="6126" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0013" x="6126" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0014" x="6126" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0015" x="6126" y="5152" width="466" height="484" frameX="0" frameY="-21" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0016" x="6592" y="5152" width="466" height="496" frameX="0" frameY="-9" frameWidth="466" frameHeight="505"/>
+	<SubTexture name="kright0017" x="7058" y="5152" width="466" height="505"/>
+	<SubTexture name="kup0000" x="7524" y="5152" width="466" height="485" frameX="0" frameY="-12" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0001" x="7524" y="5152" width="466" height="485" frameX="0" frameY="-12" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0002" x="7524" y="5152" width="466" height="485" frameX="0" frameY="-12" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0003" x="0" y="5681" width="466" height="490" frameX="0" frameY="-7" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0004" x="0" y="5681" width="466" height="490" frameX="0" frameY="-7" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0005" x="0" y="5681" width="466" height="490" frameX="0" frameY="-7" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0006" x="466" y="5681" width="466" height="488" frameX="0" frameY="-9" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0007" x="466" y="5681" width="466" height="488" frameX="0" frameY="-9" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0008" x="466" y="5681" width="466" height="488" frameX="0" frameY="-9" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0009" x="932" y="5681" width="466" height="487" frameX="0" frameY="-10" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0010" x="932" y="5681" width="466" height="487" frameX="0" frameY="-10" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0011" x="932" y="5681" width="466" height="487" frameX="0" frameY="-10" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0012" x="1398" y="5681" width="466" height="487" frameX="0" frameY="-10" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0013" x="1398" y="5681" width="466" height="487" frameX="0" frameY="-10" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0014" x="1398" y="5681" width="466" height="487" frameX="0" frameY="-10" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0015" x="1398" y="5681" width="466" height="487" frameX="0" frameY="-10" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0016" x="1864" y="5681" width="466" height="491" frameX="0" frameY="-6" frameWidth="466" frameHeight="497"/>
+	<SubTexture name="kup0017" x="2330" y="5681" width="466" height="497"/>
+</TextureAtlas>

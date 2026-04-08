@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-116,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				15,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				8,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				140,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-116,
+				-83
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				9,
+				10
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				15,
+				-52
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "singDOWN-loop",
+			"indices": [
+				9,
+				10
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				8,
+				147
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "singUP-loop",
+			"indices": [
+				9,
+				10
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				140,
+				8
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "singLEFT-loop",
+			"indices": [
+				9,
+				10
+			],
+			"name": "left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pumpiggy",
+	"position": [
+		-185,
+		-40
+	],
+	"healthicon": "pumpiggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		208,
+		132,
+		9
+	],
+	"camera_position": [
+		25,
+		-20
+	],
+	"sing_duration": 5,
+	"scale": 0.85
+}

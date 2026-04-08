@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mr_PeePee.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stitchdown0000" x="0" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0001" x="0" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0002" x="0" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0003" x="473" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0004" x="473" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0005" x="473" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0006" x="946" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0007" x="946" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0008" x="946" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0009" x="1419" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0010" x="1419" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0011" x="1419" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0012" x="1892" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0013" x="1892" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0014" x="1892" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0015" x="1892" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0016" x="2365" y="0" width="473" height="850"/>
+	<SubTexture name="stitchdown0017" x="2365" y="0" width="473" height="850"/>
+	<SubTexture name="stitchidle0000" x="2838" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0001" x="2838" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0002" x="3180" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0003" x="3180" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0004" x="3522" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0005" x="3522" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0006" x="3864" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0007" x="3864" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0008" x="4206" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0009" x="4206" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0010" x="4548" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0011" x="4548" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0012" x="4890" y="0" width="342" height="885" frameX="0" frameY="-2" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0013" x="4890" y="0" width="342" height="885" frameX="0" frameY="-2" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0014" x="5232" y="0" width="342" height="886" frameX="0" frameY="-1" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0015" x="5232" y="0" width="342" height="886" frameX="0" frameY="-1" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0016" x="5574" y="0" width="342" height="887"/>
+	<SubTexture name="stitchidle0017" x="5574" y="0" width="342" height="887"/>
+	<SubTexture name="stitchidle0018" x="5916" y="0" width="342" height="887"/>
+	<SubTexture name="stitchidle0019" x="5916" y="0" width="342" height="887"/>
+	<SubTexture name="stitchidle0020" x="6258" y="0" width="342" height="887"/>
+	<SubTexture name="stitchidle0021" x="6258" y="0" width="342" height="887"/>
+	<SubTexture name="stitchidle0022" x="6600" y="0" width="342" height="886" frameX="0" frameY="-1" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0023" x="6600" y="0" width="342" height="886" frameX="0" frameY="-1" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0024" x="6942" y="0" width="342" height="886" frameX="0" frameY="-1" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0025" x="6942" y="0" width="342" height="886" frameX="0" frameY="-1" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0026" x="7284" y="0" width="342" height="886" frameX="0" frameY="-1" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0027" x="7284" y="0" width="342" height="886" frameX="0" frameY="-1" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0028" x="6258" y="0" width="342" height="887"/>
+	<SubTexture name="stitchidle0029" x="6258" y="0" width="342" height="887"/>
+	<SubTexture name="stitchidle0030" x="7626" y="0" width="342" height="887"/>
+	<SubTexture name="stitchidle0031" x="7626" y="0" width="342" height="887"/>
+	<SubTexture name="stitchidle0032" x="0" y="887" width="342" height="886" frameX="0" frameY="-1" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0033" x="0" y="887" width="342" height="886" frameX="0" frameY="-1" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0034" x="342" y="887" width="342" height="886" frameX="0" frameY="-1" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0035" x="342" y="887" width="342" height="886" frameX="0" frameY="-1" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0036" x="684" y="887" width="342" height="884" frameX="0" frameY="-3" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0037" x="684" y="887" width="342" height="884" frameX="0" frameY="-3" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0038" x="1026" y="887" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0039" x="1026" y="887" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0040" x="1368" y="887" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0041" x="1368" y="887" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0042" x="1710" y="887" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0043" x="1710" y="887" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0044" x="2052" y="887" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0045" x="2052" y="887" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0046" x="2838" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchidle0047" x="2838" y="0" width="342" height="883" frameX="0" frameY="-4" frameWidth="342" frameHeight="887"/>
+	<SubTexture name="stitchleft0000" x="2394" y="887" width="624" height="891" frameX="0" frameY="-5" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0001" x="2394" y="887" width="624" height="891" frameX="0" frameY="-5" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0002" x="2394" y="887" width="624" height="891" frameX="0" frameY="-5" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0003" x="3018" y="887" width="606" height="896" frameX="0" frameY="0" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0004" x="3018" y="887" width="606" height="896" frameX="0" frameY="0" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0005" x="3018" y="887" width="606" height="896" frameX="0" frameY="0" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0006" x="3624" y="887" width="615" height="893" frameX="0" frameY="-3" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0007" x="3624" y="887" width="615" height="893" frameX="0" frameY="-3" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0008" x="3624" y="887" width="615" height="893" frameX="0" frameY="-3" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0009" x="4239" y="887" width="618" height="890" frameX="0" frameY="-6" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0010" x="4239" y="887" width="618" height="890" frameX="0" frameY="-6" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0011" x="4239" y="887" width="618" height="890" frameX="0" frameY="-6" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0012" x="4857" y="887" width="619" height="890" frameX="0" frameY="-6" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0013" x="4857" y="887" width="619" height="890" frameX="0" frameY="-6" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0014" x="4857" y="887" width="619" height="890" frameX="0" frameY="-6" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0015" x="4857" y="887" width="619" height="890" frameX="0" frameY="-6" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0016" x="5476" y="887" width="601" height="892" frameX="0" frameY="-4" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchleft0017" x="5476" y="887" width="601" height="892" frameX="0" frameY="-4" frameWidth="624" frameHeight="896"/>
+	<SubTexture name="stitchright0000" x="6077" y="887" width="487" height="908" frameX="-5" frameY="-4" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0001" x="6077" y="887" width="487" height="908" frameX="-5" frameY="-4" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0002" x="6077" y="887" width="487" height="908" frameX="-5" frameY="-4" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0003" x="6564" y="887" width="491" height="899" frameX="-1" frameY="-13" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0004" x="6564" y="887" width="491" height="899" frameX="-1" frameY="-13" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0005" x="6564" y="887" width="491" height="899" frameX="-1" frameY="-13" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0006" x="7055" y="887" width="488" height="905" frameX="-4" frameY="-7" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0007" x="7055" y="887" width="488" height="905" frameX="-4" frameY="-7" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0008" x="7055" y="887" width="488" height="905" frameX="-4" frameY="-7" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0009" x="7543" y="887" width="488" height="902" frameX="-4" frameY="-10" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0010" x="7543" y="887" width="488" height="902" frameX="-4" frameY="-10" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0011" x="7543" y="887" width="488" height="902" frameX="-4" frameY="-10" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0012" x="0" y="1795" width="488" height="902" frameX="-4" frameY="-10" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0013" x="0" y="1795" width="488" height="902" frameX="-4" frameY="-10" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0014" x="0" y="1795" width="488" height="902" frameX="-4" frameY="-10" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0015" x="0" y="1795" width="488" height="902" frameX="-4" frameY="-10" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0016" x="488" y="1795" width="488" height="912" frameX="-4" frameY="0" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchright0017" x="488" y="1795" width="488" height="912" frameX="-4" frameY="0" frameWidth="492" frameHeight="912"/>
+	<SubTexture name="stitchshush0000" x="976" y="1795" width="429" height="861"/>
+	<SubTexture name="stitchshush0001" x="976" y="1795" width="429" height="861"/>
+	<SubTexture name="stitchshush0002" x="976" y="1795" width="429" height="861"/>
+	<SubTexture name="stitchshush0003" x="1405" y="1795" width="428" height="861" frameX="-1" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0004" x="1405" y="1795" width="428" height="861" frameX="-1" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0005" x="1405" y="1795" width="428" height="861" frameX="-1" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0006" x="1833" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0007" x="1833" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0008" x="1833" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0009" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0010" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0011" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0012" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0013" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0014" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0015" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0016" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0017" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0018" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0019" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0020" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0021" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0022" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0023" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0024" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchshush0025" x="2241" y="1795" width="408" height="861" frameX="-21" frameY="0" frameWidth="429" frameHeight="861"/>
+	<SubTexture name="stitchup0000" x="2649" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0001" x="2649" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0002" x="2649" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0003" x="3052" y="1795" width="405" height="995" frameX="-4" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0004" x="3052" y="1795" width="405" height="995" frameX="-4" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0005" x="3052" y="1795" width="405" height="995" frameX="-4" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0006" x="3457" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0007" x="3457" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0008" x="3457" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0009" x="3860" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0010" x="3860" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0011" x="3860" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0012" x="4263" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0013" x="4263" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0014" x="4263" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0015" x="4263" y="1795" width="403" height="995" frameX="-6" frameY="0" frameWidth="409" frameHeight="995"/>
+	<SubTexture name="stitchup0016" x="4666" y="1795" width="409" height="995"/>
+	<SubTexture name="stitchup0017" x="4666" y="1795" width="409" height="995"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 28,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				55
+			],
+			"anim": "singUP",
+			"fps": 28,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 28,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 28,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				28
+			],
+			"anim": "Anger",
+			"fps": 18,
+			"name": "anger",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kinemortophobia/ZompiggyNormal",
+	"position": [
+		110,
+		160
+	],
+	"healthicon": "zompiggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		73,
+		94,
+		76
+	],
+	"camera_position": [
+		-250,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

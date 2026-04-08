@@ -1,0 +1,187 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				-75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "clownmandown"
+		},
+		{
+			"offsets": [
+				40,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "clownmanup"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "clownmanright"
+		},
+		{
+			"offsets": [
+				300,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "clownmanleft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				-100
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "altclownmandown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				130
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "altclownmanup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				35
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "altclownmanright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				515,
+				-55
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "altclownmanleft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "clownmanidle"
+		},
+		{
+			"offsets": [
+				170,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "altclownmanidle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-50
+			],
+			"anim": "danceLeft-alt",
+			"fps": 24,
+			"name": "altclownmanidle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-50
+			],
+			"anim": "danceRight-alt",
+			"fps": 24,
+			"name": "altclownmanidle",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/marmalademan",
+	"position": [
+		120,
+		85
+	],
+	"healthicon": "clowny",
+	"flip_x": false,
+	"healthbar_colors": [
+		225,
+		232,
+		88
+	],
+	"camera_position": [
+		-230,
+		40
+	],
+	"sing_duration": 5.8,
+	"scale": 1.1
+}

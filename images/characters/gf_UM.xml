@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_UM.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Baa_DOWN_miss0000" x="0" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_DOWN_miss0001" x="0" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_DOWN_miss0002" x="1104" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_DOWN_miss0003" x="1104" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_DOWN_sing0000" x="0" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_DOWN_sing0001" x="0" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_DOWN_sing0002" x="2208" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_DOWN_sing0003" x="2208" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0000" x="3312" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0001" x="3312" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0002" x="4416" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0003" x="4416" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0004" x="5520" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0005" x="5520" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0006" x="6624" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0007" x="6624" y="0" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0008" x="0" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0009" x="0" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0010" x="1104" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0011" x="1104" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0012" x="2208" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0013" x="2208" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0014" x="3312" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0015" x="3312" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0016" x="4416" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_IDLE0017" x="4416" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_LEFT_miss0000" x="6624" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_LEFT_miss0001" x="6624" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_LEFT_miss0002" x="5520" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_LEFT_miss0003" x="5520" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_LEFT_sing0000" x="6624" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_LEFT_sing0001" x="6624" y="621" width="1104" height="621"/>
+	<SubTexture name="Baa_LEFT_sing0002" x="0" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_LEFT_sing0003" x="0" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_RIGHT_miss0000" x="1104" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_RIGHT_miss0001" x="1104" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_RIGHT_miss0002" x="2208" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_RIGHT_miss0003" x="2208" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_RIGHT_sing0000" x="1104" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_RIGHT_sing0001" x="1104" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_RIGHT_sing0002" x="3312" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_RIGHT_sing0003" x="3312" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_UP_miss0000" x="4416" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_UP_miss0001" x="4416" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_UP_miss0002" x="5520" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_UP_miss0003" x="5520" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_UP_sing0000" x="4416" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_UP_sing0001" x="4416" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_UP_sing0002" x="6624" y="1242" width="1104" height="621"/>
+	<SubTexture name="Baa_UP_sing0003" x="6624" y="1242" width="1104" height="621"/>
+</TextureAtlas>

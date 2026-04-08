@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="P0rkGameOver.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="0" y="0" width="1032" height="1759" frameX="2" frameY="2" frameWidth="1028" frameHeight="1755"/>
+	<SubTexture name="Idle0001" x="1032" y="0" width="1032" height="1759" frameX="2" frameY="2" frameWidth="1028" frameHeight="1755"/>
+	<SubTexture name="Stare0000" x="2064" y="0" width="1032" height="1759" frameX="2" frameY="2" frameWidth="1028" frameHeight="1755"/>
+</TextureAtlas>

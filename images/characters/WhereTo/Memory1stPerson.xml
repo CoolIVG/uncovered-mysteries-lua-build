@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Memory1stPerson.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wherememorydown0000" x="0" y="0" width="471" height="723" frameX="-20" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0001" x="471" y="0" width="464" height="723" frameX="-27" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0002" x="471" y="0" width="464" height="723" frameX="-27" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0003" x="935" y="0" width="461" height="723" frameX="-30" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0004" x="935" y="0" width="461" height="723" frameX="-30" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0005" x="935" y="0" width="461" height="723" frameX="-30" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0006" x="1396" y="0" width="457" height="723" frameX="-34" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0007" x="1396" y="0" width="457" height="723" frameX="-34" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0008" x="1396" y="0" width="457" height="723" frameX="-34" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0009" x="1853" y="0" width="457" height="723" frameX="-34" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0010" x="1853" y="0" width="457" height="723" frameX="-34" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0011" x="1853" y="0" width="457" height="723" frameX="-34" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0012" x="2310" y="0" width="457" height="723" frameX="-34" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0013" x="2310" y="0" width="457" height="723" frameX="-34" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0014" x="2310" y="0" width="457" height="723" frameX="-34" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0015" x="2310" y="0" width="457" height="723" frameX="-34" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0016" x="2767" y="0" width="469" height="723" frameX="-22" frameY="0" frameWidth="491" frameHeight="725"/>
+	<SubTexture name="wherememorydown0017" x="3236" y="0" width="491" height="725"/>
+	<SubTexture name="wherememoryidle0000" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0001" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0002" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0003" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0004" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0005" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0006" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0007" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0008" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0009" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0010" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0011" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0012" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0013" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0014" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0015" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0016" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0017" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0018" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0019" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0020" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0021" x="0" y="747" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0022" x="0" y="747" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0023" x="324" y="747" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0024" x="324" y="747" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0025" x="648" y="747" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0026" x="648" y="747" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0027" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0028" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0029" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0030" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0031" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0032" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0033" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0034" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0035" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0036" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0037" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0038" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0039" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0040" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0041" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0042" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0043" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0044" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0045" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0046" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryidle0047" x="3727" y="0" width="324" height="747"/>
+	<SubTexture name="wherememoryleft0000" x="972" y="747" width="539" height="745" frameX="-21" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0001" x="1511" y="747" width="538" height="745" frameX="-22" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0002" x="1511" y="747" width="538" height="745" frameX="-22" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0003" x="2049" y="747" width="555" height="746" frameX="-5" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0004" x="2049" y="747" width="555" height="746" frameX="-5" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0005" x="2049" y="747" width="555" height="746" frameX="-5" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0006" x="2604" y="747" width="542" height="745" frameX="-18" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0007" x="2604" y="747" width="542" height="745" frameX="-18" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0008" x="2604" y="747" width="542" height="745" frameX="-18" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0009" x="3146" y="747" width="538" height="745" frameX="-22" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0010" x="3146" y="747" width="538" height="745" frameX="-22" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0011" x="3146" y="747" width="538" height="745" frameX="-22" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0012" x="0" y="1494" width="537" height="745" frameX="-23" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0013" x="0" y="1494" width="537" height="745" frameX="-23" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0014" x="0" y="1494" width="537" height="745" frameX="-23" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0015" x="0" y="1494" width="537" height="745" frameX="-23" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0016" x="537" y="1494" width="542" height="746" frameX="-18" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryleft0017" x="1079" y="1494" width="571" height="746" frameX="-2" frameY="0" frameWidth="573" frameHeight="746"/>
+	<SubTexture name="wherememoryright0000" x="1650" y="1494" width="490" height="736" frameX="-12" frameY="-34" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0001" x="2140" y="1494" width="500" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0002" x="2140" y="1494" width="500" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0003" x="2640" y="1494" width="503" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0004" x="2640" y="1494" width="503" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0005" x="2640" y="1494" width="503" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0006" x="3143" y="1494" width="491" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0007" x="3143" y="1494" width="491" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0008" x="3143" y="1494" width="491" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0009" x="0" y="2240" width="490" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0010" x="0" y="2240" width="490" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0011" x="0" y="2240" width="490" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0012" x="490" y="2240" width="490" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0013" x="490" y="2240" width="490" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0014" x="490" y="2240" width="490" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0015" x="490" y="2240" width="490" height="731" frameX="-12" frameY="-39" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0016" x="980" y="2240" width="490" height="746" frameX="-12" frameY="-24" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryright0017" x="1470" y="2240" width="505" height="770" frameX="0" frameY="0" frameWidth="516" frameHeight="770"/>
+	<SubTexture name="wherememoryup0000" x="1975" y="2240" width="462" height="898" frameX="-3" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0001" x="2437" y="2240" width="461" height="898" frameX="-4" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0002" x="2437" y="2240" width="461" height="898" frameX="-4" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0003" x="2898" y="2240" width="463" height="897" frameX="-2" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0004" x="2898" y="2240" width="463" height="897" frameX="-2" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0005" x="2898" y="2240" width="463" height="897" frameX="-2" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0006" x="3361" y="2240" width="461" height="897" frameX="-4" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0007" x="3361" y="2240" width="461" height="897" frameX="-4" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0008" x="3361" y="2240" width="461" height="897" frameX="-4" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0009" x="0" y="3138" width="460" height="897" frameX="-5" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0010" x="0" y="3138" width="460" height="897" frameX="-5" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0011" x="0" y="3138" width="460" height="897" frameX="-5" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0012" x="460" y="3138" width="460" height="897" frameX="-5" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0013" x="460" y="3138" width="460" height="897" frameX="-5" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0014" x="460" y="3138" width="460" height="897" frameX="-5" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0015" x="460" y="3138" width="460" height="897" frameX="-5" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0016" x="920" y="3138" width="463" height="897" frameX="-2" frameY="0" frameWidth="465" frameHeight="898"/>
+	<SubTexture name="wherememoryup0017" x="1383" y="3138" width="465" height="896" frameX="0" frameY="0" frameWidth="465" frameHeight="898"/>
+</TextureAtlas>

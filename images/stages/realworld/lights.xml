@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="lights.png" width="4000" height="1333">
+	<SubTexture name="oddlight0" x="0" y="0"  width="2000" height="1333"/>
+	<SubTexture name="evenlight0" x="2000" y="0"  width="2000" height="1333"/>
+</TextureAtlas>

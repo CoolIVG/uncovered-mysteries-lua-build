@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 42,
+			"anim": "idle",
+			"loop": true,
+			"name": "finalzpidle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 42,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "finalzpleft"
+		},
+		{
+			"offsets": [
+				-11,
+				0
+			],
+			"indices": [],
+			"fps": 42,
+			"anim": "singUP",
+			"loop": false,
+			"name": "finalzpup"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 42,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "finalzpdown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 42,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "finalzpright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kinemortophobia/ZomPiggyFinale",
+	"position": [
+		-650,
+		0
+	],
+	"healthicon": "zompiggymad",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		8,
+		21
+	],
+	"camera_position": [
+		-70,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

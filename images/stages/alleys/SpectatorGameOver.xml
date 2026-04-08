@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpectatorGameOver.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jacksepticeye0000" x="0" y="0" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0001" x="1093" y="0" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0002" x="2186" y="0" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0003" x="3279" y="0" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0004" x="4372" y="0" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0005" x="5465" y="0" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0006" x="6558" y="0" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0007" x="0" y="610" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0008" x="1093" y="610" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0009" x="2186" y="610" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0010" x="3279" y="610" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0011" x="4372" y="610" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0012" x="5465" y="610" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0013" x="6558" y="610" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0014" x="0" y="1220" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0015" x="1093" y="1220" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0016" x="2186" y="1220" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0017" x="3279" y="1220" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0018" x="4372" y="1220" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0019" x="5465" y="1220" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0020" x="6558" y="1220" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0021" x="0" y="1830" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0022" x="1093" y="1830" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0023" x="2186" y="1830" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0024" x="3279" y="1830" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0025" x="4372" y="1830" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0026" x="5465" y="1830" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0027" x="6558" y="1830" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0028" x="0" y="2440" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0029" x="1093" y="2440" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0030" x="2186" y="2440" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0031" x="3279" y="2440" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0032" x="4372" y="2440" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0033" x="5465" y="2440" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0034" x="6558" y="2440" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0035" x="0" y="3050" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0036" x="1093" y="3050" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0037" x="2186" y="3050" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0038" x="3279" y="3050" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0039" x="4372" y="3050" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0040" x="5465" y="3050" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0041" x="6558" y="3050" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0042" x="0" y="3660" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0043" x="1093" y="3660" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0044" x="2186" y="3660" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0045" x="3279" y="3660" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0046" x="4372" y="3660" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0047" x="3279" y="3660" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0048" x="3279" y="3660" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0049" x="4372" y="3660" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0050" x="5465" y="3660" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0051" x="6558" y="3660" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0052" x="0" y="4270" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0053" x="1093" y="4270" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0054" x="2186" y="4270" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0055" x="3279" y="4270" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0056" x="3279" y="4270" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0057" x="3279" y="4270" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0058" x="4372" y="4270" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0059" x="4372" y="4270" width="1093" height="610"/>
+	<SubTexture name="Jacksepticeye0060" x="4372" y="4270" width="1093" height="610"/>
+</TextureAtlas>

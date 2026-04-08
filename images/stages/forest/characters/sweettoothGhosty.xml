@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sweettoothGhosty.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1Ghosty0000" x="0" y="0" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0001" x="0" y="0" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0002" x="471" y="0" width="471" height="800"/>
+	<SubTexture name="1Ghosty0003" x="471" y="0" width="471" height="800"/>
+	<SubTexture name="1Ghosty0004" x="942" y="0" width="471" height="790" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0005" x="942" y="0" width="471" height="790" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0006" x="1413" y="0" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0007" x="1413" y="0" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0008" x="1884" y="0" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0009" x="1884" y="0" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0010" x="2355" y="0" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0011" x="2355" y="0" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0012" x="2826" y="0" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0013" x="2826" y="0" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0014" x="3297" y="0" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0015" x="0" y="800" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0016" x="471" y="800" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0017" x="942" y="800" width="471" height="790" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0018" x="1413" y="800" width="471" height="790" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0019" x="1884" y="800" width="471" height="800"/>
+	<SubTexture name="1Ghosty0020" x="2355" y="800" width="471" height="800"/>
+	<SubTexture name="1Ghosty0021" x="2826" y="800" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0022" x="3297" y="800" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="1Ghosty0023" x="3297" y="800" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0000" x="3297" y="800" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0001" x="0" y="1600" width="471" height="800"/>
+	<SubTexture name="2Ghosty0002" x="0" y="1600" width="471" height="800"/>
+	<SubTexture name="2Ghosty0003" x="471" y="1600" width="471" height="790" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0004" x="471" y="1600" width="471" height="790" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0005" x="942" y="1600" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0006" x="942" y="1600" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0007" x="1413" y="1600" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0008" x="1413" y="1600" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0009" x="1884" y="1600" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0010" x="1884" y="1600" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0011" x="2355" y="1600" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0012" x="2355" y="1600" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0013" x="2826" y="1600" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0014" x="3297" y="1600" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0015" x="0" y="2400" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0016" x="471" y="2400" width="471" height="790" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0017" x="942" y="2400" width="471" height="790" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0018" x="1413" y="2400" width="471" height="800"/>
+	<SubTexture name="2Ghosty0019" x="1884" y="2400" width="471" height="800"/>
+	<SubTexture name="2Ghosty0020" x="2355" y="2400" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0021" x="2826" y="2400" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0022" x="2826" y="2400" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="2Ghosty0023" x="0" y="0" width="471" height="788" frameX="0" frameY="0" frameWidth="471" frameHeight="800"/>
+</TextureAtlas>

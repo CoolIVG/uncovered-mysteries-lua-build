@@ -1,0 +1,32 @@
+{
+	"storyName": "Chapter 3",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Plaything",
+			"littlebrother",
+			[
+				94,
+				133,
+				175
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Week 3"
+}

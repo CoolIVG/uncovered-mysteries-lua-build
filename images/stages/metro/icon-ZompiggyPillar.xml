@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-ZompiggyPillar.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ZompiggyPillar instance 10000" x="0" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10001" x="0" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10002" x="697" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10003" x="1394" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10004" x="2091" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10005" x="2788" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10006" x="3485" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10007" x="4182" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10008" x="4879" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10009" x="4879" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10010" x="5576" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10011" x="6273" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10012" x="6970" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10013" x="0" y="984" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10014" x="697" y="984" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10015" x="1394" y="984" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10016" x="2091" y="984" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10017" x="2788" y="984" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10018" x="3485" y="984" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10019" x="4182" y="984" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10020" x="4879" y="984" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10021" x="5576" y="984" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10022" x="6273" y="984" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10023" x="6970" y="984" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10024" x="0" y="1968" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10025" x="697" y="1968" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10026" x="1394" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10027" x="1394" y="1968" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10028" x="2091" y="1968" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10029" x="2788" y="1968" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10030" x="0" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10031" x="3485" y="1968" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10032" x="697" y="0" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10033" x="1394" y="1968" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10034" x="2091" y="1968" width="697" height="984"/>
+	<SubTexture name="ZompiggyPillar instance 10035" x="2788" y="1968" width="697" height="984"/>
+</TextureAtlas>

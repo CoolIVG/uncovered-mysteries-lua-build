@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="p0rkjump.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="p0rkjump0000" x="0" y="0" width="1531" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0001" x="1531" y="0" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0002" x="3061" y="0" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0003" x="4591" y="0" width="1530" height="730" frameX="0" frameY="0" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0004" x="6121" y="0" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0005" x="0" y="730" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0006" x="1530" y="730" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0007" x="3060" y="730" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0008" x="4590" y="730" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0009" x="6120" y="730" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0010" x="0" y="1450" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0011" x="1530" y="1450" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0012" x="3060" y="1450" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0013" x="4590" y="1450" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0014" x="6120" y="1450" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0015" x="0" y="2170" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0016" x="1530" y="2170" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0017" x="3060" y="2170" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0018" x="4590" y="2170" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0019" x="6120" y="2170" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0020" x="0" y="2890" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0021" x="1530" y="2890" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0022" x="3060" y="2890" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0023" x="4590" y="2890" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0024" x="6120" y="2890" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0025" x="0" y="3610" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0026" x="1530" y="3610" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0027" x="3060" y="3610" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0028" x="4590" y="3610" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0029" x="4590" y="3610" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0030" x="4590" y="3610" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+	<SubTexture name="p0rkjump0031" x="4590" y="3610" width="1530" height="720" frameX="0" frameY="-10" frameWidth="1531" frameHeight="730"/>
+</TextureAtlas>

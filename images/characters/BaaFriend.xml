@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BaaFriend2.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BopLeft0000" x="1575" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0001" x="1575" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0002" x="0" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0003" x="0" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0004" x="315" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0005" x="315" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0006" x="630" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0007" x="630" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0008" x="945" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0009" x="945" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0010" x="1260" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0011" x="1260" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0012" x="1575" y="0" width="315" height="560"/>
+	<SubTexture name="BopLeft0013" x="1575" y="0" width="315" height="560"/>
+	<SubTexture name="BopRight0000" x="1575" y="0" width="315" height="560"/>
+	<SubTexture name="BopRight0001" x="1575" y="0" width="315" height="560"/>
+	<SubTexture name="BopRight0002" x="0" y="560" width="315" height="560"/>
+	<SubTexture name="BopRight0003" x="0" y="560" width="315" height="560"/>
+	<SubTexture name="BopRight0004" x="315" y="560" width="315" height="560"/>
+	<SubTexture name="BopRight0005" x="315" y="560" width="315" height="560"/>
+	<SubTexture name="BopRight0006" x="630" y="560" width="315" height="560"/>
+	<SubTexture name="BopRight0007" x="630" y="560" width="315" height="560"/>
+	<SubTexture name="BopRight0008" x="945" y="560" width="315" height="560"/>
+	<SubTexture name="BopRight0009" x="945" y="560" width="315" height="560"/>
+	<SubTexture name="BopRight0010" x="1260" y="560" width="315" height="560"/>
+	<SubTexture name="BopRight0011" x="1260" y="560" width="315" height="560"/>
+	<SubTexture name="Corrupt0000" x="1575" y="560" width="315" height="560"/>	
+</TextureAtlas>

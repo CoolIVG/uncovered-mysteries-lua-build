@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DeathAnim.png">
+	<SubTexture name="Grab0" x="0" y="0" width="508" height="720"/>
+	<SubTexture name="Lift0" x="508" y="0" width="508" height="720"/>
+	<SubTexture name="Bite0" x="1016" y="0" width="508" height="720"/>
+</TextureAtlas>

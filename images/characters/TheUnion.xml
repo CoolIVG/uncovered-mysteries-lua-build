@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TheUnion.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coolpartdown0000" x="0" y="0" width="853" height="969" frameX="0" frameY="0" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0001" x="853" y="0" width="853" height="967" frameX="0" frameY="-2" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0002" x="1706" y="0" width="853" height="967" frameX="0" frameY="-2" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0003" x="2559" y="0" width="854" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0004" x="3413" y="0" width="854" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0005" x="3413" y="0" width="854" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0006" x="4267" y="0" width="853" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0007" x="4267" y="0" width="853" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0008" x="5120" y="0" width="853" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0009" x="5973" y="0" width="853" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0010" x="6826" y="0" width="853" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0011" x="6826" y="0" width="853" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0012" x="0" y="969" width="853" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0013" x="0" y="969" width="853" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0014" x="853" y="969" width="853" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0015" x="853" y="969" width="853" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0016" x="1706" y="969" width="853" height="957" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartdown0017" x="2559" y="969" width="853" height="974" frameX="0" frameY="-12" frameWidth="854" frameHeight="986"/>
+	<SubTexture name="coolpartidle0000" x="3412" y="969" width="502" height="688"/>
+	<SubTexture name="coolpartidle0001" x="3412" y="969" width="502" height="688"/>
+	<SubTexture name="coolpartidle0002" x="3412" y="969" width="502" height="688"/>
+	<SubTexture name="coolpartidle0003" x="3412" y="969" width="502" height="688"/>
+	<SubTexture name="coolpartleft0000" x="3914" y="969" width="968" height="805" frameX="-43" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0001" x="4882" y="969" width="967" height="805" frameX="-43" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0002" x="5849" y="969" width="967" height="805" frameX="-43" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0003" x="6816" y="969" width="998" height="805" frameX="-29" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0004" x="6816" y="969" width="998" height="805" frameX="-29" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0005" x="0" y="1943" width="998" height="805" frameX="-29" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0006" x="998" y="1943" width="974" height="805" frameX="-40" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0007" x="998" y="1943" width="974" height="805" frameX="-40" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0008" x="1972" y="1943" width="974" height="805" frameX="-40" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0009" x="2946" y="1943" width="965" height="805" frameX="-44" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0010" x="2946" y="1943" width="965" height="805" frameX="-44" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0011" x="3911" y="1943" width="965" height="805" frameX="-44" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0012" x="4876" y="1943" width="971" height="805" frameX="-37" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0013" x="4876" y="1943" width="971" height="805" frameX="-37" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0014" x="5847" y="1943" width="971" height="805" frameX="-37" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0015" x="5847" y="1943" width="971" height="805" frameX="-37" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0016" x="6818" y="1943" width="970" height="805" frameX="-38" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartleft0017" x="0" y="2748" width="1011" height="825" frameX="0" frameY="0" frameWidth="1028" frameHeight="825"/>
+	<SubTexture name="coolpartright0000" x="1011" y="2748" width="970" height="823" frameX="-10" frameY="-35" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0001" x="1011" y="2748" width="970" height="823" frameX="-10" frameY="-35" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0002" x="1981" y="2748" width="970" height="823" frameX="-10" frameY="-35" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0003" x="2951" y="2748" width="998" height="810" frameX="-1" frameY="-48" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0004" x="3949" y="2748" width="998" height="810" frameX="-1" frameY="-48" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0005" x="3949" y="2748" width="998" height="810" frameX="-1" frameY="-48" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0006" x="4947" y="2748" width="971" height="807" frameX="-12" frameY="-51" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0007" x="4947" y="2748" width="971" height="807" frameX="-12" frameY="-51" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0008" x="5918" y="2748" width="971" height="807" frameX="-12" frameY="-51" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0009" x="6889" y="2748" width="961" height="805" frameX="-16" frameY="-53" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0010" x="0" y="3573" width="961" height="805" frameX="-16" frameY="-53" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0011" x="0" y="3573" width="961" height="805" frameX="-16" frameY="-53" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0012" x="961" y="3573" width="960" height="805" frameX="-16" frameY="-53" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0013" x="961" y="3573" width="960" height="805" frameX="-16" frameY="-53" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0014" x="1921" y="3573" width="960" height="805" frameX="-16" frameY="-53" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0015" x="1921" y="3573" width="960" height="805" frameX="-16" frameY="-53" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0016" x="2881" y="3573" width="987" height="856" frameX="-11" frameY="-2" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartright0017" x="3868" y="3573" width="984" height="845" frameX="-30" frameY="-13" frameWidth="1014" frameHeight="858"/>
+	<SubTexture name="coolpartup0000" x="4852" y="3573" width="848" height="878" frameX="-10" frameY="-102" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0001" x="5700" y="3573" width="848" height="877" frameX="-10" frameY="-103" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0002" x="5700" y="3573" width="848" height="877" frameX="-10" frameY="-103" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0003" x="6548" y="3573" width="858" height="887" frameX="0" frameY="-93" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0004" x="6548" y="3573" width="858" height="887" frameX="0" frameY="-93" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0005" x="6548" y="3573" width="858" height="887" frameX="0" frameY="-93" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0006" x="0" y="4460" width="848" height="880" frameX="-10" frameY="-100" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0007" x="0" y="4460" width="848" height="880" frameX="-10" frameY="-100" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0008" x="0" y="4460" width="848" height="880" frameX="-10" frameY="-100" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0009" x="848" y="4460" width="848" height="877" frameX="-10" frameY="-103" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0010" x="848" y="4460" width="848" height="877" frameX="-10" frameY="-103" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0011" x="848" y="4460" width="848" height="877" frameX="-10" frameY="-103" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0012" x="848" y="4460" width="848" height="877" frameX="-10" frameY="-103" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0013" x="848" y="4460" width="848" height="877" frameX="-10" frameY="-103" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0014" x="848" y="4460" width="848" height="877" frameX="-10" frameY="-103" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0015" x="848" y="4460" width="848" height="877" frameX="-10" frameY="-103" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0016" x="1696" y="4460" width="848" height="914" frameX="-10" frameY="-66" frameWidth="858" frameHeight="1099"/>
+	<SubTexture name="coolpartup0017" x="2544" y="4460" width="848" height="1099" frameX="-10" frameY="0" frameWidth="858" frameHeight="1099"/>
+</TextureAtlas>

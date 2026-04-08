@@ -1,0 +1,77 @@
+{
+	"storyName": "DEV EXCLUSIVE",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Hoaxination",
+			"maginary",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Controversy",
+			"smiley",
+			[
+				232,
+				255,
+				102
+			]
+		],
+		[
+			"Family Feud",
+			"smiley",
+			[
+				232,
+				255,
+				102
+			]
+		],
+		[
+			"Porcellum",
+			"smiley",
+			[
+				232,
+				255,
+				102
+			]
+		],
+		[
+			"Correction",
+			"clowny",
+			[
+				232,
+				255,
+				102
+			]
+		],
+		[
+			"Trenches",
+			"laura",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week5",
+	"hiddenUntilUnlocked": false
+}

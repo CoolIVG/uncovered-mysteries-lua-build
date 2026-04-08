@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GameoverBlink.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="3081" y="0" width="1027" height="1764" frameX="2" frameY="2" frameWidth="1023" frameHeight="1760"/>
+	<SubTexture name="Idle0001" x="1027" y="0" width="1027" height="1764" frameX="2" frameY="2" frameWidth="1023" frameHeight="1760"/>
+	<SubTexture name="Blink0000" x="2054" y="0" width="1027" height="1764" frameX="2" frameY="2" frameWidth="1023" frameHeight="1760"/>
+	<SubTexture name="Blink0001" x="0" y="0" width="1027" height="1764" frameX="2" frameY="2" frameWidth="1023" frameHeight="1760"/>
+</TextureAtlas>

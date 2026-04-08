@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sweettoothCrove.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1Crove0000" x="0" y="0" width="372" height="497"/>
+	<SubTexture name="1Crove0001" x="0" y="0" width="372" height="497"/>
+	<SubTexture name="1Crove0002" x="372" y="0" width="372" height="497"/>
+	<SubTexture name="1Crove0003" x="744" y="0" width="372" height="497"/>
+	<SubTexture name="1Crove0004" x="1116" y="0" width="372" height="497"/>
+	<SubTexture name="1Crove0005" x="1116" y="0" width="372" height="497"/>
+	<SubTexture name="1Crove0006" x="1488" y="0" width="372" height="497"/>
+	<SubTexture name="1Crove0007" x="1488" y="0" width="372" height="497"/>
+	<SubTexture name="1Crove0008" x="0" y="497" width="372" height="497"/>
+	<SubTexture name="1Crove0009" x="372" y="497" width="372" height="497"/>
+	<SubTexture name="1Crove0010" x="744" y="497" width="372" height="497"/>
+	<SubTexture name="1Crove0011" x="744" y="497" width="372" height="497"/>
+	<SubTexture name="1Crove0012" x="1116" y="497" width="372" height="497"/>
+	<SubTexture name="1Crove0013" x="1116" y="497" width="372" height="497"/>
+	<SubTexture name="1Crove0014" x="1488" y="497" width="372" height="497"/>
+	<SubTexture name="1Crove0015" x="0" y="994" width="372" height="497"/>
+	<SubTexture name="1Crove0016" x="372" y="994" width="372" height="497"/>
+	<SubTexture name="1Crove0017" x="372" y="994" width="372" height="497"/>
+	<SubTexture name="1Crove0018" x="744" y="994" width="372" height="497"/>
+	<SubTexture name="1Crove0019" x="1116" y="994" width="372" height="497"/>
+	<SubTexture name="1Crove0020" x="1488" y="994" width="372" height="497"/>
+	<SubTexture name="1Crove0021" x="1488" y="994" width="372" height="497"/>
+	<SubTexture name="1Crove0022" x="0" y="1491" width="372" height="497"/>
+	<SubTexture name="1Crove0023" x="0" y="1491" width="372" height="497"/>
+</TextureAtlas>

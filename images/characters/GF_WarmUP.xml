@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_WarmUP.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BopLeft0000" x="0" y="0" width="378" height="577"/>
+	<SubTexture name="BopLeft0001" x="0" y="0" width="378" height="577"/>
+	<SubTexture name="BopLeft0002" x="378" y="0" width="378" height="577"/>
+	<SubTexture name="BopLeft0003" x="378" y="0" width="378" height="577"/>
+	<SubTexture name="BopLeft0004" x="756" y="0" width="378" height="577"/>
+	<SubTexture name="BopLeft0005" x="756" y="0" width="378" height="577"/>
+	<SubTexture name="BopLeft0006" x="1134" y="0" width="378" height="577"/>
+	<SubTexture name="BopLeft0007" x="1134" y="0" width="378" height="577"/>
+	<SubTexture name="BopLeft0008" x="1512" y="0" width="378" height="577"/>
+	<SubTexture name="BopLeft0009" x="1512" y="0" width="378" height="577"/>
+	<SubTexture name="BopLeft0010" x="1890" y="0" width="378" height="577"/>
+	<SubTexture name="BopLeft0011" x="1890" y="0" width="378" height="577"/>
+	<SubTexture name="BopRight0000" x="2268" y="0" width="380" height="627"/>
+	<SubTexture name="BopRight0001" x="2268" y="0" width="380" height="627"/>
+	<SubTexture name="BopRight0002" x="2648" y="0" width="380" height="627"/>
+	<SubTexture name="BopRight0003" x="2648" y="0" width="380" height="627"/>
+	<SubTexture name="BopRight0004" x="3028" y="0" width="380" height="627"/>
+	<SubTexture name="BopRight0005" x="3028" y="0" width="380" height="627"/>
+	<SubTexture name="BopRight0006" x="3408" y="0" width="380" height="627"/>
+	<SubTexture name="BopRight0007" x="3408" y="0" width="380" height="627"/>
+	<SubTexture name="BopRight0008" x="0" y="627" width="380" height="627"/>
+	<SubTexture name="BopRight0009" x="0" y="627" width="380" height="627"/>
+	<SubTexture name="BopRight0010" x="0" y="627" width="380" height="627"/>
+	<SubTexture name="BopRight0011" x="0" y="627" width="380" height="627"/>
+	<SubTexture name="down0000" x="380" y="627" width="388" height="589"/>
+	<SubTexture name="down0001" x="380" y="627" width="388" height="589"/>
+	<SubTexture name="down0002" x="768" y="627" width="388" height="589"/>
+	<SubTexture name="down0003" x="768" y="627" width="388" height="589"/>
+	<SubTexture name="down0004" x="768" y="627" width="388" height="589"/>
+	<SubTexture name="down0005" x="768" y="627" width="388" height="589"/>
+	<SubTexture name="left0000" x="1156" y="627" width="435" height="617"/>
+	<SubTexture name="left0001" x="1156" y="627" width="435" height="617"/>
+	<SubTexture name="left0002" x="1591" y="627" width="435" height="617"/>
+	<SubTexture name="left0003" x="1591" y="627" width="435" height="617"/>
+	<SubTexture name="left0004" x="1591" y="627" width="435" height="617"/>
+	<SubTexture name="left0005" x="1591" y="627" width="435" height="617"/>
+	<SubTexture name="right0000" x="2026" y="627" width="549" height="583"/>
+	<SubTexture name="right0001" x="2026" y="627" width="549" height="583"/>
+	<SubTexture name="right0002" x="2575" y="627" width="549" height="583"/>
+	<SubTexture name="right0003" x="2575" y="627" width="549" height="583"/>
+	<SubTexture name="right0004" x="2575" y="627" width="549" height="583"/>
+	<SubTexture name="right0005" x="2575" y="627" width="549" height="583"/>
+	<SubTexture name="up0000" x="3124" y="627" width="379" height="694"/>
+	<SubTexture name="up0001" x="3124" y="627" width="379" height="694"/>
+	<SubTexture name="up0002" x="3503" y="627" width="379" height="694"/>
+	<SubTexture name="up0003" x="3503" y="627" width="379" height="694"/>
+	<SubTexture name="up0004" x="3503" y="627" width="379" height="694"/>
+	<SubTexture name="up0005" x="3503" y="627" width="379" height="694"/>
+</TextureAtlas>

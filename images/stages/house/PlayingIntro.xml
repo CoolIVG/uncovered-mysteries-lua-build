@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PlayingIntro.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PlayingWithMyThing0000" x="0" y="0" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0001" x="1276" y="0" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0002" x="2552" y="0" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0003" x="3828" y="0" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0004" x="5104" y="0" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0005" x="6380" y="0" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0006" x="0" y="718" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0007" x="1276" y="718" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0008" x="2552" y="718" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0009" x="3828" y="718" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0010" x="5104" y="718" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0011" x="6380" y="718" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0012" x="0" y="1436" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0013" x="1276" y="1436" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0014" x="2552" y="1436" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0015" x="3828" y="1436" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0016" x="5104" y="1436" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0017" x="6380" y="1436" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0018" x="0" y="2154" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0019" x="1276" y="2154" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0020" x="2552" y="2154" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0021" x="3828" y="2154" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0022" x="3828" y="2154" width="1276" height="718"/>
+	<SubTexture name="PlayingWithMyThing0023" x="3828" y="2154" width="1276" height="718"/>
+</TextureAtlas>

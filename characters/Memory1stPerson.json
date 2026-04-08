@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "wherememorydown"
+		},
+		{
+			"offsets": [
+				160,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "wherememoryup"
+		},
+		{
+			"offsets": [
+				-10,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "wherememoryright"
+		},
+		{
+			"offsets": [
+				265,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "wherememoryleft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "wherememoryidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WhereTo/Memory1stPerson",
+	"position": [
+		575,
+		20
+	],
+	"healthicon": "memory",
+	"flip_x": false,
+	"healthbar_colors": [
+		159,
+		159,
+		159
+	],
+	"camera_position": [
+		-360,
+		-175
+	],
+	"sing_duration": 6,
+	"scale": 1.4
+}

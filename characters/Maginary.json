@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mright",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "midle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "mstrike"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"indices": [
+				0,
+				2,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3
+			],
+			"fps": 12,
+			"anim": "hit",
+			"loop": false,
+			"name": "mhit"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Maginary",
+	"position": [
+		-480,
+		135
+	],
+	"healthicon": "maginary",
+	"flip_x": false,
+	"healthbar_colors": [
+		141,
+		93,
+		96
+	],
+	"camera_position": [
+		50,
+		-50
+	],
+	"sing_duration": 5,
+	"scale": 1.2
+}
